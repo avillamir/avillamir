@@ -1,5 +1,7 @@
-### Hi there 👋
-
+<div align="center">
+<h1 align ="center" >Hola, soy <a href="">avillamir</a></h1> 👋
+</div>
+<img src="https://i.imgur.com/M81BQRd.png">
 <!--
 **avillamir/avillamir** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
